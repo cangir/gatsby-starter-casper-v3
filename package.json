@@ -1,0 +1,44 @@
+{
+  "name": "@cangir/gatsby-starter-casper-v3",
+  "version": "0.3.2",
+  "private": true,
+  "author": "Ahmet Cangir <contact@ahmetcangir.com>",
+  "license": "MIT",
+  "starter-name": "gatsby-starter-casper-v3",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-starter",
+    "gatsby-starter-casper-v3",
+    "blog"
+  ],
+  "bugs": {
+    "url": "https://github.com/cangir/gatsby-themes/issues"
+  },
+  "homepage": "https://github.com/cangir/gatsby-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cangir/gatsby-starter-casper-v3.git"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "dev": "gatsby clean && gatsby develop",
+    "preview": "gatsby build && gatsby serve"
+  },
+  "devDependencies": {
+    "gatsby": "^2.21.24",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "@cangir/gatsby-theme-blog-core": "^0.1.1",
+    "@cangir/gatsby-theme-casper-v3": "^0.1.0",
+    "@cangir/gatsby-theme-core": "^0.2.5",
+    "@cangir/gatsby-theme-page-core": "^0.3.1",
+    "gatsby-plugin-typescript": "^2.4.2",
+    "typescript": "^3.9.2"
+  }
+}
