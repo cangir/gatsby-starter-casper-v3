@@ -51,6 +51,6 @@ module.exports = {
     `@cangir/gatsby-theme-core`,
     `@cangir/gatsby-theme-page-core`,
     `@cangir/gatsby-theme-blog-core`,
-    `@cangir/gatsby-theme-tabler`,
+    `@cangir/gatsby-theme-casper-v3`,
   ],
 }
