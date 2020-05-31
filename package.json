@@ -1,6 +1,6 @@
 {
   "name": "@cangir/gatsby-starter-casper-v3",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "private": true,
   "author": "Ahmet Cangir <contact@ahmetcangir.com>",
   "license": "MIT",
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@cangir/gatsby-theme-blog-core": "^0.2.0",
-    "@cangir/gatsby-theme-casper-v3": "^0.3.0",
+    "@cangir/gatsby-theme-casper-v3": "^0.3.1",
     "@cangir/gatsby-theme-core": "^0.3.2",
     "@cangir/gatsby-theme-page-core": "^0.3.4",
     "gatsby-plugin-typescript": "^2.4.3",

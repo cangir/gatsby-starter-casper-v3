@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/cangir/gatsby-starter-casper-v3/compare/@cangir/gatsby-starter-casper-v3@0.5.0...@cangir/gatsby-starter-casper-v3@0.5.1) (2020-05-31)
+
+**Note:** Version bump only for package @cangir/gatsby-starter-casper-v3
+
+
+
+
+
 # [0.5.0](https://github.com/cangir/gatsby-starter-casper-v3/compare/@cangir/gatsby-starter-casper-v3@0.4.1...@cangir/gatsby-starter-casper-v3@0.5.0) (2020-05-31)
 
 
