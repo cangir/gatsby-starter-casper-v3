@@ -1,0 +1,21 @@
+main:
+  - label: Home
+    url: /
+    icon: ""
+  - label: Blog
+    url: /blog
+    icon: ""
+  - label: About
+    url: /about
+    icon: ""
+  - label: Contact
+    url: /contact
+    icon: ""
+
+secondary:
+  - label: Home
+    url: /
+    icon: ""
+  - label: Blog
+    url: /blog
+    icon: ""

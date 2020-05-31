@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/cangir/gatsby-starter-casper-v3/compare/@cangir/gatsby-starter-casper-v3@0.4.1...@cangir/gatsby-starter-casper-v3@0.5.0) (2020-05-31)
+
+
+### Features
+
+* add meta items ([be7e046](https://github.com/cangir/gatsby-starter-casper-v3/commit/be7e0468fa0eb8ae8767533e5e4442dc1331290c))
+* add Wrapper component ([97b0f0b](https://github.com/cangir/gatsby-starter-casper-v3/commit/97b0f0b7a754890e797f8382d89399daffe27e07))
+
+
+
+
+
 ## [0.4.1](https://github.com/cangir/gatsby-starter-casper-v3/compare/@cangir/gatsby-starter-casper-v3@0.4.0...@cangir/gatsby-starter-casper-v3@0.4.1) (2020-05-14)
 
 

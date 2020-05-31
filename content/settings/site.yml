@@ -1,2 +1,12 @@
+siteUrl: http://localhost:8000
 lang: en
-codeinjection_styles: ""
+title: Gatsby Casper v3
+author: cangir
+description: Website Description
+coverImage: "media/abstract-arrangement-art-background-457713.jpg"
+logo: "media/ghost-logo.png"
+icon: "media/ghost-icon.png"
+footerText: "Based on Gatsby Casper"
+codeinjectionStyles: ""
+metaDescription: Meta Description
+metaTitle: Meta Title
